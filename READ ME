@@ -1,4 +1,4 @@
 # COE127L - Design of Experiment
 The Design of Experiment aims to applies all the lessons covered throught the whole academic term as the group creates an Image Processing 
-**Description of the Project:**
-The Vending Machine Simulation allows both the admin and the csutomer to experience an easy-to-use vending machine procedure that shows the information needed for purchase. The admin needs to log-in in order to add, delete, and edit the beverage list, while the customers can simply procede to the vending page. At the end of every process, the admin and the customers are prompted if the action that they did was a success.
+**Description of the Design Project:**
+The Image Processing for Traffic Volume counts the number of vehicles in a certain picture through image processing techniques namely edge detection and background subtraction.
